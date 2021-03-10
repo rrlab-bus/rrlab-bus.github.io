@@ -1,4 +1,4 @@
-## SICK Enabled Bus
+## SICK Enabled Bus :bus:
 
 [SICK Docs](./sick.md)
 
